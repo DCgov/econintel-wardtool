@@ -11,7 +11,7 @@ Office of the Deputy Mayor for Planning & Economic Development (DMPED) <br/> War
 DMPED is using economic data to drive positive change and build good government for District of Columbia residents. We focus on collecting and compiling information about our city, in particular on D.C.’s economic development priorities that create more pathways to the middle class: jobs, quality affordable housing, and community-focused development.
 
 <hr style="width: 475px; margin:1em 0">
-<h3>District Development Portfolio</h3>
+<h3>District Economic Development Investments</h3>
 DMPED real estate redevelopment projects, Affordable Housing Production and Preservation projects, Industrial Revenue Bond projects, DHCD PADD Vacant Properties, and Great Streets Small Business Grantees.
 <b>Zoom in to see more detail.</b>
 
