@@ -10,7 +10,7 @@ collections:
     permalink: /:path/
 
 # Title
-name: DMPED Ward Indicators Tool
+name: Ward Economic Indicators and Investments Tool
 subtitle: 'Deputy Mayor for Planning & Economic Development | Muriel Bowser, Mayor'
 
 # Author/Organization info to be displayed in the templates
@@ -31,7 +31,7 @@ logoalt: We Are Washington DC
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Overview
+- text: Map
   internal: true
   url: ./
 - text: Data
