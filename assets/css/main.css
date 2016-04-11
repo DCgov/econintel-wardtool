@@ -129,6 +129,14 @@ h5 {
     max-width: 475px;
 }
 
+.beta {
+    color: #BF0000;
+    font-weight: bold;
+    font-variant: small-caps;
+    font-size: 50%;
+    vertical-align: top;
+}
+
 /* SVG Images
 ==================================
 */
