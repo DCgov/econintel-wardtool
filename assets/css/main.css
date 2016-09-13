@@ -167,6 +167,12 @@ h5 {
     text-anchor: middle;
     }
 
+.sparkl path {
+    stroke: blue;
+    stroke-width: 1;
+    fill: none;
+}
+
 /*
 Glossary
 ==================================
