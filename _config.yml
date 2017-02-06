@@ -69,7 +69,7 @@ repos:
   description:
   url: https://github.com/DCgov/econintel-wardtool
 
-# google_analytics_ua: TBA
+google_analytics_ua: UA-91482680-1
 
 # Style Variables
 brand_color: "#BF0000"
