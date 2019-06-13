@@ -37,30 +37,6 @@ navigation:
 - text: Ward Indicators
   internal: true
   url: data.html
-- text: Ward 1
-  internal: true
-  url: ward-1.html
-- text: Ward 2
-  internal: true
-  url: ward-2.html
-- text: Ward 3
-  internal: true
-  url: ward-3.html
-- text: Ward 4
-  internal: true
-  url: ward-4.html
-- text: Ward 5
-  internal: true
-  url: ward-5.html
-- text: Ward 6
-  internal: true
-  url: ward-6.html
-- text: Ward 7
-  internal: true
-  url: ward-7.html
-- text: Ward 8
-  internal: true
-  url: ward-8.html  
 
 # Repo list
 # List repos that you would like to appear on the homepage here
